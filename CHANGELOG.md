@@ -1,6 +1,22 @@
 # Changelog
 
 
+## v1.3.0
+
+[compare changes](https://github.com/thespielplatz/nuxt-dev-base/compare/v1.2.4...v1.3.0)
+
+### 🚀 Enhancements
+
+- Upgrade to nuxt 4 ([b17e94e](https://github.com/thespielplatz/nuxt-dev-base/commit/b17e94e))
+
+### 🩹 Fixes
+
+- Upgrade package.json release to nuxt 4 module ([fb02939](https://github.com/thespielplatz/nuxt-dev-base/commit/fb02939))
+
+### ❤️ Contributors
+
+- Thespielplatz <informatics@gmx.net>
+
 ## v1.2.4
 
 [compare changes](https://github.com/thespielplatz/nuxt-dev-base/compare/v1.2.3...v1.2.4)

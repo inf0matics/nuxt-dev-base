@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.3.1
+
+[compare changes](https://github.com/thespielplatz/nuxt-dev-base/compare/v1.3.0...v1.3.1)
+
+### 🏡 Chore
+
+- Npm audit fix ([6476802](https://github.com/thespielplatz/nuxt-dev-base/commit/6476802))
+
+### ❤️ Contributors
+
+- Thespielplatz <informatics@gmx.net>
+
 ## v1.3.0
 
 [compare changes](https://github.com/thespielplatz/nuxt-dev-base/compare/v1.2.4...v1.3.0)

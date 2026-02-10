@@ -1,6 +1,25 @@
 # Changelog
 
 
+## v1.3.3
+
+[compare changes](https://github.com/thespielplatz/nuxt-dev-base/compare/v1.3.2...v1.3.3)
+
+### 🏡 Chore
+
+- Npm audit fix ([8497823](https://github.com/thespielplatz/nuxt-dev-base/commit/8497823))
+- **release:** V1.3.2 ([8f95327](https://github.com/thespielplatz/nuxt-dev-base/commit/8f95327))
+- Dependabot alert fix ([fa190d2](https://github.com/thespielplatz/nuxt-dev-base/commit/fa190d2))
+- Dependabot alert fix ([2ae85b5](https://github.com/thespielplatz/nuxt-dev-base/commit/2ae85b5))
+
+### 🤖 CI
+
+- **release script:** Push before npm publish ([b47fff7](https://github.com/thespielplatz/nuxt-dev-base/commit/b47fff7))
+
+### ❤️ Contributors
+
+- Thespielplatz <informatics@gmx.net>
+
 ## v1.3.2
 
 [compare changes](https://github.com/thespielplatz/nuxt-dev-base/compare/v1.3.1...v1.3.2)
